@@ -220,14 +220,14 @@ https://www.w3schools.com/css/tryit.asp?filename=trycss3_object-fit_contain */
 }
 
 .btn {
-  color:#238443;
-  background-color:#238443;
-  border-color:#238443;
+  color:#c2e6993;
+  background-color:#ffffcc;
+  border-color:#c2e699;
 }
 .btn:hover {
-  color:#c2e699;
-  background-color:#c2e699;
-  border-color:#c2e699;
+  color:#78c679;
+  background-color:#ffffcc;
+  border-color:#78c679;
 }
 
 .teambackground {
