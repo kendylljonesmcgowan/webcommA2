@@ -9,15 +9,15 @@
     }
 
   .navbg{
-    background-color: #33a02c;
+    background-color: #238443;
     }
   
   a:link, a:visited{
-    color: #f5eec2
+    color: #ffffcc
     }
   
   a:hover, a:active{
-    color: #b2df8a
+    color: #c2e699
     }
 
   .p3bg{
@@ -72,7 +72,7 @@
 #maintext{
   font-size: 10vh;
   /* letter-spacing: 0.1em; */
-  color:#b2df8a;
+  color:#c2e699;
   font-family: "Volkhov";
   margin-bottom:4vh;
 }
@@ -80,20 +80,20 @@
 #landingdivider{
   max-width: 20vw;
   border-width: 0.2rem;
-  border-color: #33a02c;
+  border-color: #ffffcc;
 }
 
 #slogan{
   font-size: 5vh;
   font-family: "Volkhov";
   /* font-family: Arial, Helvetica, sans-serif; */
-  color:#b2df8a;
+  color:#c2e699;
 }
 
 #supplementary{
   font-size: 2.5vh;
   font-family: "Lato";
-  color:#b2df8a;
+  color:#c2e699;
   padding-bottom: 10vh;
 }
 
@@ -133,39 +133,39 @@
 }
 
 #services, #contact{
-  background-color: #a6cee3;
+  background-color: #c2e699;
 }
 .sIcon{
-  color: #1f78b4;
+  color: #238443;
 }
 
 .cIcon{
-  color: #1f78b4;
+  color: #238443;
 }
 .sTitle{
-  color: #1f78b4;
+  color: #238443;
   font-family: "Volkhov";
   text-align: center;
 }
 .cTitle{
-  color: #1f78b4;
+  color: #238443;
   font-family: "Volkhov";
   text-align: center;
 }
 .sDivider{
   max-width: 20vw;
   border-width: 0.2rem;
-  border-color: #1f78b4;
+  border-color: #238443;
 }
 .cDivider{
   max-width: 20vw;
   border-width: 0.2rem;
-  border-color: #1f78b4;
+  border-color: #238443;
 }
 .tDivider{
   max-width: 20vw;
   border-width: 0.2rem;
-  border-color: #33a02c;
+  border-color: #238443;
 }
 .project1img{
   border-radius: 15px;  
@@ -180,7 +180,7 @@
 }
 
 #footer{
-  background-color: #33a02c;
+  background-color: #238443;
   padding:0;
 }
 
@@ -199,23 +199,23 @@ https://www.w3schools.com/css/tryit.asp?filename=trycss3_object-fit_contain */
 
 .teamtitlefont {
   font-family: "Volkhov";
-  color:#33a02c
+  color:#238443
 }
 
 .teamfont {
   font-family: "Lato";
-  color:#33a02c;
+  color:#238443;
 }
 
 .footfont {
   font-family: "Lato";
-  color:#b2df8a;
+  color:#ffffcc;
   font-size: 1.5vh;
 }
 
 .footfont2 {
   font-family: "Lato";
-  color:#b2df8a;
+  color:#ffffcc;
   font-size: 2vh;
 }
 
@@ -231,7 +231,7 @@ https://www.w3schools.com/css/tryit.asp?filename=trycss3_object-fit_contain */
 }
 
 .teambackground {
-  background-color: #b2df8a;
+  background-color: #c2e699;
 }
 
 /* project2.html css for LiDAR and Bathymetry project page */
