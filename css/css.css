@@ -21,7 +21,7 @@
     }
 
   .p3bg{
-    background-color: #b2df8a;
+    background-color: #ffffcc;
   }
 
   .project3{
@@ -80,7 +80,7 @@
 #landingdivider{
   max-width: 20vw;
   border-width: 0.2rem;
-  border-color: #ffffcc;
+  border-color: #c2e699;
 }
 
 #slogan{
@@ -133,7 +133,7 @@
 }
 
 #services, #contact{
-  background-color: #c2e699;
+  background-color: #ffffcc;
 }
 .sIcon{
   color: #238443;
@@ -176,7 +176,7 @@
   object-fit: contain;  
 }
 #project1page{
-  background-color: #b2df8a;
+  background-color: #ffffcc;
 }
 
 #footer{
@@ -220,18 +220,18 @@ https://www.w3schools.com/css/tryit.asp?filename=trycss3_object-fit_contain */
 }
 
 .btn {
-  color:;
-  background-color:#b2df8a;
-  border-color:#33a02c;
+  color:#238443;
+  background-color:#238443;
+  border-color:#238443;
 }
 .btn:hover {
-  color:#33a02c;
-  background-color:#b2df8a;
-  border-color:#33a02c;
+  color:#c2e699;
+  background-color:#c2e699;
+  border-color:#c2e699;
 }
 
 .teambackground {
-  background-color: #c2e699;
+  background-color: #ffffcc;
 }
 
 /* project2.html css for LiDAR and Bathymetry project page */
@@ -248,17 +248,17 @@ https://www.w3schools.com/css/tryit.asp?filename=trycss3_object-fit_contain */
 .projecttitlefont {
   font-family: "Volkhov";
   font-weight: bold;
-  color: #1f78b4;
+  color: #238443;
   text-align: center;
 }
 
 .projectfont {
   font-family: "Lato";
-  color: #1f78b4;
+  color: #238443;
 }
 
 .project2background{
-  background-color: #a6cee3;
+  background-color: #ffffcc;
 }
 
 .margin {
