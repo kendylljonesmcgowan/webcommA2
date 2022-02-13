@@ -72,7 +72,7 @@
 #maintext{
   font-size: 10vh;
   /* letter-spacing: 0.1em; */
-  color:#c2e699;
+  color:#ffffcc;
   font-family: "Volkhov";
   margin-bottom:4vh;
 }
@@ -87,13 +87,13 @@
   font-size: 5vh;
   font-family: "Volkhov";
   /* font-family: Arial, Helvetica, sans-serif; */
-  color:#c2e699;
+  color:#ffffcc;
 }
 
 #supplementary{
   font-size: 2.5vh;
   font-family: "Lato";
-  color:#c2e699;
+  color:#ffffcc;
   padding-bottom: 10vh;
 }
 
